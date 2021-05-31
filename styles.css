@@ -1,0 +1,75 @@
+body {
+background-color: rgb(44, 63, 85);
+margin: 20px;
+}
+
+.title {
+    background-color: rgb(131, 152, 224);
+    border-style: solid;
+    border-color: navy;
+    text-align: center;
+    padding:5px;
+    border-radius: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24pt;
+    color: black;
+    margin: 10px;
+    box-shadow: 5px 5px black;
+}
+
+.app {
+    background-color:rgb(160, 202, 149);
+    border-radius: 5px;
+    justify-content: center;
+    padding: 10px;
+    border-style: solid;
+    border-color: navy;
+    box-shadow: 5px 5px black;
+}
+
+.todo-list {
+    border-style: solid;
+    border-color: navy;
+    border-radius: 5px;
+    background-color: rgb(131, 152, 224);
+    margin: 10px;
+    padding: 5px 10px;
+    box-shadow: 5px 5px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+.todo {
+    font-style: italic;
+}
+
+.todo-input {
+    border-style: solid;
+    border-color: navy;
+    border-radius: 5px;
+    background-color: rgb(131, 152, 224);
+    margin: 10px;
+    padding: 5px 10px;
+    text-align: center;
+    box-shadow: 5px 5px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+.input {
+    background-color:  rgb(160, 202, 149);
+    border-radius: 5px;
+    border-style: solid;
+    border-width: medium;
+    border-color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24pt;
+    padding: 5px 10px;
+    box-shadow: 5px 5px black;
+    width: 50%;
+    margin: 5px;
+}
